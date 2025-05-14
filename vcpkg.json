@@ -1,0 +1,12 @@
+{
+    "name": "funnyfs",
+    "description": "use leveldb funny",
+    "version": "0.1",
+    "dependencies": [
+        "libfuse",
+        "glog",
+        "gflags",
+        "gtest",
+        "leveldb"
+    ]
+}
